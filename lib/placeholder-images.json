@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Abstract romantic background",
+      "imageUrl": "https://picsum.photos/seed/soulmatch-hero/1200/800",
+      "imageHint": "abstract romantic"
+    },
+    {
+      "id": "user-1",
+      "description": "Portrait of a young person smiling",
+      "imageUrl": "https://picsum.photos/seed/user1/600/800",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "user-2",
+      "description": "Person outdoors in nature",
+      "imageUrl": "https://picsum.photos/seed/user2/600/800",
+      "imageHint": "person outdoors"
+    },
+    {
+      "id": "user-3",
+      "description": "Person at a cafe",
+      "imageUrl": "https://picsum.photos/seed/user3/600/800",
+      "imageHint": "person cafe"
+    },
+    {
+      "id": "user-4",
+      "description": "Person hiking",
+      "imageUrl": "https://picsum.photos/seed/user4/600/800",
+      "imageHint": "person hiking"
+    },
+    {
+      "id": "user-5",
+      "description": "Person with a pet",
+      "imageUrl": "https://picsum.photos/seed/user5/600/800",
+      "imageHint": "person pet"
+    }
+  ]
+}
